@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'structural-directives';
+  title="app";
+  public name="Wei Cao";
 }
